@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 
-![](https://github.com/rahulguptafullstack/flutter-login-ui/blob/master/login_ui.png|width=100)
+<img src="/rahulguptafullstack/flutter-login-ui/blob/master/login_ui.png?raw=true" alt="login_ui.png">
