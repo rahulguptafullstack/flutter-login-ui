@@ -15,4 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/rahulguptafullstack/flutter-login-ui/blob/master/login_ui.png)
+## Screenshot
+
+![Screenshot](https://github.com/rahulguptafullstack/flutter-login-ui/blob/master/login_ui.png){:height="100%" width="250px"}
